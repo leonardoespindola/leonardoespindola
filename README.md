@@ -1,7 +1,8 @@
+### Hola soy Leonardo Espindola 👋
 ![banner](https://github.com/leonardoespindola/leonardoespindola/blob/1cd52e8a69196f1a203b84b6f9ae06e30de8b77c/banner.png)
 
 
-### Hi there 👋
+
 
 
 **leonardoespindola/leonardoespindola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
